@@ -1,3 +1,5 @@
+// Run: frida -U -f com.blah.Blah -l bypass.js --no-pause
+
 
 // This is https://gist.github.com/izadgot/5783334b11563fb08fee4cd250455edea combination of the following:
 // - https://gist.github.com/izadgot/5783334b11563fb08fee4cd250455ede
